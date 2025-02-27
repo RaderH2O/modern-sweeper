@@ -48,3 +48,5 @@ class GameHandler:
 
             pygame.display.flip()
             self.game.clock.tick(self.game.fps)
+
+### By Radin ###

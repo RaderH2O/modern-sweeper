@@ -112,3 +112,4 @@ class Game:
                     if grid[y][x] != MS.Empty:
                         self.surf.blit(text, (pos[0] + 15, pos[1] + 8))
 
+### By Radin ###

@@ -73,3 +73,5 @@ class Grid:
             # Toggle the flag at (x, y)
             self.flag_count += 1 if self.flags[y][x] == False else -1
             self.flags[y][x] ^= True
+
+### By Radin ###

@@ -19,3 +19,5 @@ class UI:
 
         self.surf.blit(title, (20, 20))
         self.surf.blit(mines_text, (20, 60))
+
+### By Radin ###
